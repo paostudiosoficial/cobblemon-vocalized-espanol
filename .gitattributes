@@ -1,0 +1,3 @@
+src/main/resources/assets/cobblemon_vocalized/models/** -text
+gradlew text eol=lf
+*.bat text eol=crlf

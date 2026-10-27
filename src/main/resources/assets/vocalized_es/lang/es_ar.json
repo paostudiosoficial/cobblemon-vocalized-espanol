@@ -1,0 +1,8 @@
+{
+  "button.cobblemon_vocalized.voice_mode": "Modo de voz: %s",
+  "vocalized_es.microfono.pulsar": "Pulsar para hablar",
+  "vocalized_es.microfono.combate_y_mundo": "Combate y Mundo",
+  "vocalized_es.microfono.solo_combate": "Solo Combate",
+  "vocalized_es.microfono.nunca": "Nunca",
+  "button.cobblemon_vocalized.use_simple_voice_chat": "Usar micrófono del chat de voz: %s"
+}

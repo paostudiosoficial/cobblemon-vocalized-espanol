@@ -1,0 +1,22 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "paostudios.vocalized_es.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "VoskResultMixin",
+    "TextUtilsMixin",
+    "VoicePipelineMixin",
+    "VocalizedVoiceMixin",
+    "BattleVoiceControllerMixin",
+    "RecallVoiceControllerMixin",
+    "OpenPartyCallbackHandlerMixin",
+    "VocalizedScreenMixin",
+    "ClientConfigMixin",
+    "VocalizedKeybindsMixin",
+    "VocalizedCommonClientMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
